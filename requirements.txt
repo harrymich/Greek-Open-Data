@@ -1,0 +1,9 @@
+pandas
+numpy
+pandas
+shapefile
+matplotlib.pyplot
+contextily
+geopandas
+seaborn
+mpl_toolkits.axes_grid1
